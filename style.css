@@ -365,6 +365,9 @@ footer {
 	.brackets{
 		display:flex;
 	}
+	.col-9{
+		margin-left:0;
+	}
 	body {
 		display: flex;
 		flex-direction: column;
