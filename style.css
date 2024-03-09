@@ -359,10 +359,6 @@ footer {
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
-.col-9 {
-	margin-left: 100px !important;
-	margin-right: 0 !important;
-}
 
 }
 @media (max-width: 510px) {
