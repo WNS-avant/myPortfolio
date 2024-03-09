@@ -366,7 +366,7 @@ footer {
 		display:flex;
 	}
 	.col-9{
-		margin-left:0;
+		margin-left:0 !important;
 	}
 	body {
 		display: flex;
