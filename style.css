@@ -187,7 +187,6 @@ footer {
 .btn-primary {
 	display: none;
 }
-
 								/* start */
 @media (max-width: 510px) {
 	body {
@@ -200,12 +199,7 @@ footer {
 	.section2,.section3 h2{
 	padding-bottom:none;
 	}
-	
-	#technical h2
-	{
-	 font-size: 22px;
-	}
-
+   
 	.right-space {
 		display: none;
 	}
@@ -329,7 +323,7 @@ footer {
 
 .col-9 {
 	margin-left:65px !important;
-	margin-right:0 !important;
+	margin-right:65px !important;
 }
 
 #projects ul {
@@ -341,7 +335,7 @@ footer {
 	margin-right: 10px;
 	margin-bottom: 20px;
 	text-align: center;
-	height: 150px;
+	height: 140px;
 	width: auto;
 }
 
@@ -1139,6 +1133,5 @@ a {
 .btn:hover {
     background-color: lightblue; /* Change to the desired hover color */
 }
-
 
 
